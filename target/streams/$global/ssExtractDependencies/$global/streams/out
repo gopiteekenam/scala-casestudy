@@ -1,0 +1,2 @@
+[error] sbt.librarymanagement.ResolveException: unresolved dependency: org.scalaj#scalaj-http_2.13;2.3.0: not found
+[error] unresolved dependency: org.scala-lang.modules#scala-parser-combinators_2.13;1.0.5: not found
